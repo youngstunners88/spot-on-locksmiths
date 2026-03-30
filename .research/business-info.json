@@ -1,0 +1,21 @@
+{
+  "businessName": "Spot On Locksmiths",
+  "category": "locksmith",
+  "location": "South Africa",
+  "services": [
+    "Emergency Unlock",
+    "Key Cutting",
+    "Lock Installation",
+    "Security Systems",
+    "Safe Opening"
+  ],
+  "brandColors": {
+    "primary": "#2C3E50",
+    "secondary": "#7F8C8D",
+    "accent": "#F1C40F",
+    "dark": "#1A252F",
+    "light": "#F8F9FA"
+  },
+  "tagline": "Securing What Matters",
+  "researchDate": "2026-03-30T17:09:54.406Z"
+}

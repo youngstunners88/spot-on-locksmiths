@@ -1,0 +1,26 @@
+{
+  "colors": {
+    "primary": "#2C3E50",
+    "secondary": "#7F8C8D",
+    "accent": "#F1C40F",
+    "dark": "#1A252F",
+    "light": "#F8F9FA"
+  },
+  "fonts": {
+    "heading": "Raleway",
+    "body": "Source Sans Pro"
+  },
+  "layout": "trust-focused",
+  "components": [
+    "hero",
+    "services",
+    "about",
+    "contact",
+    "footer"
+  ],
+  "images": [
+    "Professional locksmith with modern tools, security installation, #2C3E50 uniform",
+    "High-security lock system, close-up detail, premium quality",
+    "24/7 emergency locksmith van, Spot On Locksmiths branding, night city background"
+  ]
+}
